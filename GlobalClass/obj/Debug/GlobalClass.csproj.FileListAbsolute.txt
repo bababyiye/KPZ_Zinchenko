@@ -1,6 +1,0 @@
-C:\Users\max\source\repos\KPZ1\GlobalClass\bin\Debug\GlobalClass.dll
-C:\Users\max\source\repos\KPZ1\GlobalClass\bin\Debug\GlobalClass.pdb
-C:\Users\max\source\repos\KPZ1\GlobalClass\obj\Debug\GlobalClass.csproj.AssemblyReference.cache
-C:\Users\max\source\repos\KPZ1\GlobalClass\obj\Debug\GlobalClass.csproj.CoreCompileInputs.cache
-C:\Users\max\source\repos\KPZ1\GlobalClass\obj\Debug\GlobalClass.dll
-C:\Users\max\source\repos\KPZ1\GlobalClass\obj\Debug\GlobalClass.pdb
