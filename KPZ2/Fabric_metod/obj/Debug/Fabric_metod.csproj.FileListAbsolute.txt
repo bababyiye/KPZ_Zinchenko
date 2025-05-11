@@ -1,0 +1,7 @@
+C:\Users\max\source\repos\lab2\Fabric_metod\obj\Debug\Fabric_metod.csproj.AssemblyReference.cache
+C:\Users\max\source\repos\lab2\Fabric_metod\obj\Debug\Fabric_metod.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\lab2\Fabric_metod\bin\Debug\Fabric_metod.exe.config
+C:\Users\max\source\repos\lab2\Fabric_metod\bin\Debug\Fabric_metod.exe
+C:\Users\max\source\repos\lab2\Fabric_metod\bin\Debug\Fabric_metod.pdb
+C:\Users\max\source\repos\lab2\Fabric_metod\obj\Debug\Fabric_metod.exe
+C:\Users\max\source\repos\lab2\Fabric_metod\obj\Debug\Fabric_metod.pdb
