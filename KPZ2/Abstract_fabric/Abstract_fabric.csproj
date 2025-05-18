@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC0C7A84-57B2-45BA-874B-D34D91828B56}</ProjectGuid>
+    <ProjectGuid>{E8680D44-239B-4B51-A39E-F56FE24036D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Fabric_metod</RootNamespace>
-    <AssemblyName>Fabric_metod</AssemblyName>
+    <RootNamespace>Abstract_fabric</RootNamespace>
+    <AssemblyName>Abstract_fabric</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,21 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Creators\ISubscriptionCreator.cs" />
-    <Compile Include="Creators\ManagerCall.cs" />
-    <Compile Include="Creators\MobileApp.cs" />
-    <Compile Include="Creators\WebSite.cs" />
+    <Compile Include="Balaxy.cs" />
+    <Compile Include="Interfaces.cs" />
+    <Compile Include="IProne.cs" />
+    <Compile Include="Kiaomi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Subscriptions\DomesticSubscription.cs" />
-    <Compile Include="Subscriptions\EducationalSubscription.cs" />
-    <Compile Include="Subscriptions\ISubscription.cs" />
-    <Compile Include="Subscriptions\PremiumSubscription.cs" />
-    <Compile Include="Subscriptions\SubscriptionBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram_FM.cd" />
+    <None Include="ClassDiagram_AF.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
